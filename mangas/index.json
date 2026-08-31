@@ -32,9 +32,12 @@
       "School Life"
     ],
     "poster_url": "mangas/genjitsu-sekai-demo-shiawase-ni-shite-kudasai-ne/poster.jpg",
-    "updated_chapter": "Chapter 9",
-    "updated_at": 1788095545264,
-    "views": 10
+    "updated_chapter": "Chapter 10",
+    "updated_at": 1788173147178,
+    "views": 10,
+    "chapter_prices": {
+      "chapter-10": 0
+    }
   },
   {
     "id": "karakai-jouzu-no-takagi-san",
