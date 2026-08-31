@@ -9,11 +9,10 @@
     "School"
   ],
   "created_at": "2026-08-26T17:28:45.043Z",
-  "updated_chapter": "Chapter 2",
+  "updated_chapter": "Chapter 1",
   "views": 12,
-  "updated_at": 1788173995667,
+  "updated_at": 1788185313100,
   "chapter_prices": {
-    "chapter-3": 0,
-    "chapter-2": 100
+    "chapter-3": 0
   }
 }
