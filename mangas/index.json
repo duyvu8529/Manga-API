@@ -12,7 +12,10 @@
     "poster_url": "mangas/kawaikute-gomen/poster.jpg",
     "updated_chapter": "Chapter 2",
     "views": 1,
-    "updated_at": 1787822523358
+    "updated_at": 1788172095588,
+    "chapter_prices": {
+      "chapter-2": 100
+    }
   },
   {
     "id": "genjitsu-sekai-demo-shiawase-ni-shite-kudasai-ne",
