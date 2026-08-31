@@ -10,11 +10,12 @@
       "School"
     ],
     "poster_url": "mangas/kawaikute-gomen/poster.jpg",
-    "updated_chapter": "Chapter 1",
+    "updated_chapter": "Chapter 2",
     "views": 5,
-    "updated_at": 1788173777858,
+    "updated_at": 1788173993616,
     "chapter_prices": {
-      "chapter-3": 0
+      "chapter-3": 0,
+      "chapter-2": 100
     }
   },
   {
