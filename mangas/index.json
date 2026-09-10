@@ -83,5 +83,25 @@
     "updated_at": 1787895128064,
     "views": 0,
     "is18plus": true
+  },
+  {
+    "id": "onii-chan-wa-oshimai",
+    "title": "Onii-chan wa Oshimai",
+    "author": "Nekotoufu",
+    "description": "Mahiro Oyama là một thanh niên \"hikikomori\" chính hiệu, chỉ biết cắm đầu vào chơi game người lớn suốt ngày. Một ngày nọ, cậu tỉnh dậy và phát hiện mình đã biến thành... con gái, \"thủ phạm\" không ai khác chính là cô em gái thiên tài khoa học Mihari của cậu. Từ một anh trai NEET chính hiệu, Mahiro bất đắc dĩ phải bước chân vào cuộc sống của một nữ sinh cấp hai, tập làm quen với những sinh hoạt thường ngày vô cùng dở khóc dở cười nhưng cũng không kém phần đáng yêu!",
+    "release_year": 2017,
+    "genres": [
+      "Comedy",
+      "Sci-fi",
+      "Gender Bender",
+      "Slice of life"
+    ],
+    "poster_url": "mangas/onii-chan-wa-oshimai/poster.jpg",
+    "updated_chapter": "Chưa có",
+    "updated_at": 1789051929828,
+    "views": 0,
+    "is18plus": false,
+    "isRaw": false,
+    "chapter_prices": {}
   }
 ]
