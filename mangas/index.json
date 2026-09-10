@@ -1,20 +1,24 @@
 [
   {
-    "id": "kawaikute-gomen",
-    "title": "Kawaikute Gomen",
-    "author": "HoneyWorks",
-    "description": "Nakamura Chizuru (Chuutan), nữ sinh năm nhất trung học, là một fan cuồng nhiệt của idol Aizo thuộc nhóm LIP×LIP. Cô vừa tận hưởng cuộc sống “đu idol”, vừa làm thêm tại một quán maid để kiếm tiền phục vụ sở thích của mình. Nhưng cuộc sống tưởng như hoàn hảo bắt đầu rắc rối khi một nữ maid khác ghen tị với Chuutan.",
-    "release_year": 2024,
+    "id": "onii-chan-wa-oshimai",
+    "title": "Onii-chan wa Oshimai",
+    "author": "Nekotoufu",
+    "description": "Mahiro Oyama là một thanh niên \"hikikomori\" chính hiệu, chỉ biết cắm đầu vào chơi game người lớn suốt ngày. Một ngày nọ, cậu tỉnh dậy và phát hiện mình đã biến thành... con gái, \"thủ phạm\" không ai khác chính là cô em gái thiên tài khoa học Mihari của cậu. Từ một anh trai NEET chính hiệu, Mahiro bất đắc dĩ phải bước chân vào cuộc sống của một nữ sinh cấp hai, tập làm quen với những sinh hoạt thường ngày vô cùng dở khóc dở cười nhưng cũng không kém phần đáng yêu!",
+    "release_year": 2017,
     "genres": [
-      "Romance",
-      "School"
+      "Comedy",
+      "Sci-fi",
+      "Gender Bender",
+      "Slice of life"
     ],
-    "poster_url": "mangas/kawaikute-gomen/poster.jpg",
-    "updated_chapter": "Chapter 1",
-    "views": 12,
-    "updated_at": 1788185310950,
+    "poster_url": "mangas/onii-chan-wa-oshimai/poster.jpg",
+    "updated_chapter": "Chapter 1.5",
+    "updated_at": 1789053820107,
+    "views": 0,
+    "is18plus": false,
+    "isRaw": false,
     "chapter_prices": {
-      "chapter-3": 0
+      "chapter-1": 0
     }
   },
   {
@@ -51,22 +55,22 @@
     }
   },
   {
-    "id": "karakai-jouzu-no-takagi-san",
-    "title": "Karakai Jouzu no Takagi-san",
-    "author": "Yamamoto Souichirou",
-    "description": "“Đỏ mặt là thua!”\n\nVới niềm tin như vậy, mỗi ngày đến trường với Nishikata là một ngày thua. Cậu học sinh trung học đáng thương luôn bị “quê” bởi những trò chọc phá của cô nàng ngồi cạnh bàn Takagi-san, và dẫu cho cậu bé luôn ấp ủ mộng báo thù cũng như không ngừng bày mưu tính kế, thì cuối cùng những chiêu trò của cậu lại “gậy ông đập lưng ông”.\n\nTheo đánh giá của giới chuyên môn, cách biệt kèo trên và kèo dưới là rất xa, cửa thắng cho cậu bé là cực thấp, bởi có vẻ như cô bé Takagi còn có khả năng nắm bắt được hết những suy nghĩ toan tính của cậu. Song, nhìn về những gì Yokoi đã làm được trước Seki-kun trong Tonari no Seki-kun, liệu chúng ta có nên đặt chút niềm tin vào màn lật kèo phút chót của Nishikata?",
-    "release_year": 2013,
+    "id": "kawaikute-gomen",
+    "title": "Kawaikute Gomen",
+    "author": "HoneyWorks",
+    "description": "Nakamura Chizuru (Chuutan), nữ sinh năm nhất trung học, là một fan cuồng nhiệt của idol Aizo thuộc nhóm LIP×LIP. Cô vừa tận hưởng cuộc sống “đu idol”, vừa làm thêm tại một quán maid để kiếm tiền phục vụ sở thích của mình. Nhưng cuộc sống tưởng như hoàn hảo bắt đầu rắc rối khi một nữ maid khác ghen tị với Chuutan.",
+    "release_year": 2024,
     "genres": [
-      "Comedy",
-      "Shounen",
       "Romance",
-      "School Life",
-      "Slice of life"
+      "School"
     ],
-    "poster_url": "mangas/karakai-jouzu-no-takagi-san/poster.jpg",
+    "poster_url": "mangas/kawaikute-gomen/poster.jpg",
     "updated_chapter": "Chapter 1",
-    "updated_at": 1787859782385,
-    "views": 0
+    "views": 12,
+    "updated_at": 1788185310950,
+    "chapter_prices": {
+      "chapter-3": 0
+    }
   },
   {
     "id": "dead-tube",
@@ -85,25 +89,21 @@
     "is18plus": true
   },
   {
-    "id": "onii-chan-wa-oshimai",
-    "title": "Onii-chan wa Oshimai",
-    "author": "Nekotoufu",
-    "description": "Mahiro Oyama là một thanh niên \"hikikomori\" chính hiệu, chỉ biết cắm đầu vào chơi game người lớn suốt ngày. Một ngày nọ, cậu tỉnh dậy và phát hiện mình đã biến thành... con gái, \"thủ phạm\" không ai khác chính là cô em gái thiên tài khoa học Mihari của cậu. Từ một anh trai NEET chính hiệu, Mahiro bất đắc dĩ phải bước chân vào cuộc sống của một nữ sinh cấp hai, tập làm quen với những sinh hoạt thường ngày vô cùng dở khóc dở cười nhưng cũng không kém phần đáng yêu!",
-    "release_year": 2017,
+    "id": "karakai-jouzu-no-takagi-san",
+    "title": "Karakai Jouzu no Takagi-san",
+    "author": "Yamamoto Souichirou",
+    "description": "“Đỏ mặt là thua!”\n\nVới niềm tin như vậy, mỗi ngày đến trường với Nishikata là một ngày thua. Cậu học sinh trung học đáng thương luôn bị “quê” bởi những trò chọc phá của cô nàng ngồi cạnh bàn Takagi-san, và dẫu cho cậu bé luôn ấp ủ mộng báo thù cũng như không ngừng bày mưu tính kế, thì cuối cùng những chiêu trò của cậu lại “gậy ông đập lưng ông”.\n\nTheo đánh giá của giới chuyên môn, cách biệt kèo trên và kèo dưới là rất xa, cửa thắng cho cậu bé là cực thấp, bởi có vẻ như cô bé Takagi còn có khả năng nắm bắt được hết những suy nghĩ toan tính của cậu. Song, nhìn về những gì Yokoi đã làm được trước Seki-kun trong Tonari no Seki-kun, liệu chúng ta có nên đặt chút niềm tin vào màn lật kèo phút chót của Nishikata?",
+    "release_year": 2013,
     "genres": [
       "Comedy",
-      "Sci-fi",
-      "Gender Bender",
+      "Shounen",
+      "Romance",
+      "School Life",
       "Slice of life"
     ],
-    "poster_url": "mangas/onii-chan-wa-oshimai/poster.jpg",
+    "poster_url": "mangas/karakai-jouzu-no-takagi-san/poster.jpg",
     "updated_chapter": "Chapter 1",
-    "updated_at": 1789052287368,
-    "views": 0,
-    "is18plus": false,
-    "isRaw": false,
-    "chapter_prices": {
-      "chapter-1": 0
-    }
+    "updated_at": 1787859782385,
+    "views": 0
   }
 ]
