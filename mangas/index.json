@@ -97,11 +97,13 @@
       "Slice of life"
     ],
     "poster_url": "mangas/onii-chan-wa-oshimai/poster.jpg",
-    "updated_chapter": "Chưa có",
-    "updated_at": 1789051929828,
+    "updated_chapter": "Chapter 1",
+    "updated_at": 1789052287368,
     "views": 0,
     "is18plus": false,
     "isRaw": false,
-    "chapter_prices": {}
+    "chapter_prices": {
+      "chapter-1": 0
+    }
   }
 ]
