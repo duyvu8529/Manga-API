@@ -1,0 +1,26 @@
+{
+  "width": 1080,
+  "height": 1552,
+  "overlays": [
+    {
+      "id": "overlay_0",
+      "x": 94.26345084664861,
+      "y": 120.88448538312365,
+      "width": 74.35700129177856,
+      "height": 152.33270437823342,
+      "text": "Đã trưa rồi à?",
+      "vocab": [
+        {
+          "term": "昼(ひる)",
+          "meaning": "Buổi Trưa"
+        }
+      ],
+      "grammar": [
+        {
+          "term": "か",
+          "meaning": "thường dùng cuối câu hay dùng để hỏi"
+        }
+      ]
+    }
+  ]
+}
